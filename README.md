@@ -1,6 +1,6 @@
 # Git Demo: Maximilian Cytron
 
-Actaully learning Git!
+Actaully learning Git!!!!!!!!!!!!!!!!!!!!!
 
 Gonna learn some cool stuff
 
@@ -9,3 +9,7 @@ Gonna learn some cool stuff
 - git push
 - git clone
 - git push
+
+
+## Kool Stuff
+- learning branching
